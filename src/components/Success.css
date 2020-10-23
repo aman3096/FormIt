@@ -1,0 +1,31 @@
+#success{
+    background:#f3f3f3;
+    padding-bottom: 12%;
+    padding-top: 12%;
+}
+button{
+    width:230px;
+    height:50px;
+    background:red;
+    color:white;
+    font-size: 20px;
+    border:none;
+    font-family: Helvetica;
+    border-radius: 9px;
+    outline:none;
+}
+span{
+    font-family: Helvetica;
+    font-size: 34px;
+}
+#imgGap{
+    margin-top:15%;
+}
+#DivSuc{
+    background: white;
+    width:70%;
+    
+}
+#spanTag{
+    line-break: 0px;
+}

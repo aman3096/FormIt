@@ -1,0 +1,28 @@
+#ed{
+    color:white;
+    background-color: red;
+    align-items:right;
+    width:20%;
+    margin-left:80%;
+    height:60px;
+    border-radius: 0px 0px 0px 20px;
+}
+#spanUser{
+    font-size: 15px;
+    /* margin: 3%; */
+    padding:7%;
+    display:flex;
+    width:100%;
+    text-align: left;
+}
+#hamburg{
+    width: 20px;
+    height: 2px;
+    background-color: white;
+    margin: 3px 0;
+    display:block;
+}
+#hamSpan{
+    margin-bottom:2%;
+    margin-left:43%
+}
